@@ -1,6 +1,6 @@
 # Легкая FSM для Unity
 
-## Базовый пример
+## Пример
 
 ```csharp
 using FinalStateMachine;
